@@ -10,6 +10,7 @@ namespace ExampleGithubProj
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sample program");
         }
     }
 }
